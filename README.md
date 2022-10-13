@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @mejrisamir
+<!--- - 👋 Hi, I’m @mejrisamir
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning fullstack development  
 - 💞️ I’m looking to collaborate on ...
+--->
 - 📫 How to reach me mejrisamir@hotmail.com
 
 <!---
